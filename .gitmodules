@@ -1,0 +1,13 @@
+[submodule "altera-linux"]
+	path = altera-linux
+	url = https://github.com/enclustra-bsp/altera-linux.git
+[submodule "busybox-rootfs"]
+	path = busybox-rootfs
+	url = https://github.com/enclustra-bsp/busybox-rootfs.git
+[submodule "altera-uboot"]
+	path = altera-uboot
+	url = https://github.com/enclustra-bsp/altera-uboot.git
+[submodule "altera-linux-rt"]
+	path = altera-linux-rt
+	url = https://github.com/enclustra-bsp/altera-linux.git
+	branch = rt
