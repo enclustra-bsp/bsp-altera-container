@@ -1,8 +1,8 @@
 [submodule "altera-linux"]
 	path = altera-linux
 	url = ../altera-linux
-[submodule "busybox-rootfs"]
-	path = busybox-rootfs
+[submodule "buildroot-rootfs"]
+	path = buildroot-rootfs
 	url = ../busybox-rootfs
 [submodule "altera-uboot"]
 	path = altera-uboot
