@@ -11,3 +11,6 @@
 	path = altera-linux-rt
 	url = ../altera-linux
 	branch = rt
+[submodule "busybox-rootfs"]
+	path = busybox-rootfs
+	url = ../busybox-rootfs
